@@ -1,37 +1,41 @@
 <p align="center">
-  <img src="./icon.png" width="120" alt="Ranked Theme">
+  <img src="./icon.png" width="140" alt="Ranked Theme">
 </p>
 
 <h1 align="center">Ranked Theme</h1>
 
+<hr>
+
 <p align="center">
-  A minimal VS Code theme with strong syntax colors and refined dark and light variants.
+  A minimal theme for VS Code with strong syntax colors, available in dark and light.
 </p>
 
-## Dark
+<br>
 
-![Ranked Theme Dark](./screenshot-dark.png)
+<p align="center">
+  <img src="./screenshot-dark.png" alt="Ranked Dark">
+</p>
 
-## Light
+<h2 align="center">Dark</h2>
 
-![Ranked Theme Light](./screenshot-light.png)
+<br>
 
-## Features
+<p align="center">
+  <img src="./screenshot-light.png" alt="Ranked Light">
+</p>
 
-- Dark and light variants
-- Minimal interface
-- Strong and consistent syntax colors
-- Semantic highlighting
-- Support for JavaScript, TypeScript, HTML, CSS, Python, PHP, JSON, YAML and more
+<h2 align="center">Light</h2>
+
+<br>
 
 ## Install
 
 Search for **Ranked Theme** in the VS Code Marketplace.
 
-Open `Preferences: Color Theme` and choose:
+Then open `Preferences: Color Theme` and choose:
 
-- `Ranked Theme Dark`
-- `Ranked Theme Light`
+- `Ranked Dark`
+- `Ranked Light`
 
 ## License
 
