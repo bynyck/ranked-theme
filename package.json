@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "publisher": "bynyck",
   "icon": "icon.png",
+  "license": "MIT",
 
   "engines": {
     "vscode": "^1.85.0"
@@ -24,6 +25,17 @@
     "ranked"
   ],
 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bynyck/ranked-theme.git"
+  },
+
+  "homepage": "https://github.com/bynyck/ranked-theme#readme",
+
+  "bugs": {
+    "url": "https://github.com/bynyck/ranked-theme/issues"
+  },
+
   "contributes": {
     "themes": [
       {
@@ -37,15 +49,5 @@
         "path": "./themes/ranked-light.json"
       }
     ]
-  },
-  "license": "MIT",
-  "repository": {
-  "type": "git",
-  "url": "https://github.com/bynyck/ranked-theme.git"
-  },
-  "homepage": "https://github.com/bynyck/ranked-theme#readme",
-  "bugs": {
-    "url": "https://github.com/bynyck/ranked-theme/issues"
-  },
-  "license": "MIT"
+  }
 }
