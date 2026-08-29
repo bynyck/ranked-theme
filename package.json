@@ -2,7 +2,7 @@
   "name": "ranked-theme",
   "displayName": "Ranked Theme",
   "description": "A minimal VS Code theme with strong syntax colors and refined dark and light variants.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "bynyck",
   "icon": "icon.png",
   "license": "MIT",
@@ -42,6 +42,11 @@
         "label": "Ranked Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ranked-dark.json"
+      },
+      {
+        "label": "Ranked Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ranked-dark-soft.json"
       },
       {
         "label": "Ranked Light",

@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-  A minimal theme for VS Code with strong syntax colors, available in dark and light.
+  A minimal theme for VS Code with strong syntax colors, available in dark, dark soft and light variants.
 </p>
 
 <br>
@@ -17,6 +17,14 @@
 </p>
 
 <h2 align="center">Dark</h2>
+
+<br>
+
+<p align="center">
+  <img src="./screenshot-dark-soft.png" alt="Ranked Dark Soft">
+</p>
+
+<h2 align="center">Dark Soft</h2>
 
 <br>
 
@@ -35,6 +43,7 @@ Search for **Ranked Theme** in the VS Code Marketplace.
 Then open `Preferences: Color Theme` and choose:
 
 - `Ranked Dark`
+- `Ranked Dark Soft`
 - `Ranked Light`
 
 ## License
