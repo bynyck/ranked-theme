@@ -1,0 +1,50 @@
+{
+  "name": "ranked-theme",
+  "displayName": "Ranked Theme",
+  "description": "A minimal VS Code theme with strong syntax colors and refined dark and light variants.",
+  "version": "1.0.0",
+  "publisher": "bynyck",
+  "icon": "icon.png",
+
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+
+  "categories": [
+    "Themes"
+  ],
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "minimal",
+    "vscode theme",
+    "syntax highlighting",
+    "ranked"
+  ],
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ranked Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ranked-dark.json"
+      },
+      {
+        "label": "Ranked Light",
+        "uiTheme": "vs",
+        "path": "./themes/ranked-light.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SEU-USUARIO/ranked-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SEU-USUARIO/ranked-theme/issues"
+  },
+  "homepage": "https://github.com/SEU-USUARIO/ranked-theme#readme"
+}
