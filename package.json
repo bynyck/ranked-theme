@@ -2,7 +2,7 @@
   "name": "ranked-theme",
   "displayName": "Ranked Theme",
   "description": "A minimal VS Code theme with strong syntax colors and refined dark and light variants.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "bynyck",
   "icon": "icon.png",
   "license": "MIT",
