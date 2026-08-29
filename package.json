@@ -40,11 +40,12 @@
   },
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/SEU-USUARIO/ranked-theme.git"
+  "type": "git",
+  "url": "https://github.com/bynyck/ranked-theme.git"
   },
+  "homepage": "https://github.com/bynyck/ranked-theme#readme",
   "bugs": {
-    "url": "https://github.com/SEU-USUARIO/ranked-theme/issues"
+    "url": "https://github.com/bynyck/ranked-theme/issues"
   },
-  "homepage": "https://github.com/SEU-USUARIO/ranked-theme#readme"
+  "license": "MIT"
 }
